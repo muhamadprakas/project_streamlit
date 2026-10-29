@@ -1,0 +1,9 @@
+print("-------------------------------------------------------------------------\n")
+ulang = 2
+for i in range(ulang):
+    print("data ke - " + str(i+1))
+    nama = input("Masukan Nama anda: ")
+    uts = int(input("Masukan nilai UTS anda: "))
+    uas = int(input("Masukan nilai UAS anda: "))
+    print(f"Nama anda adalah {nama} nilai UTS anda {uts} nilai UAS anda {uas}")
+print("-------------------------------------------------------------------------\n")

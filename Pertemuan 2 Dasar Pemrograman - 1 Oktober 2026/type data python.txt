@@ -1,0 +1,24 @@
+[] tanda untuk type data list
+(tipe data).append('')
+print()
+
+/n (untuk membuat teks jadi kebawah)
+print('-'*30) untuk - sebanyak 30x
+
+rumus
+luas_segitiga
+
+float untuk desimal
+tuple pake () dan tidak bisa diubah
+
+index
+0 1 2 3 4 ...
+
+buah[1]='semangka' untuk merubah (1) index
+
+list
+buah.append('anggur') untuk menambahkan buah baru, yaitu anggur
+
+dictionary
+mahasiswa['ipk']=4 untuk menambahkan
+mahasiswa['nim']='00000000' untuk merubah
